@@ -2,7 +2,7 @@
 
 A decentralized voting system based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.
 
-> This started as a final year project for the IT Degree that I was/am pursuing, now aiming to make this more than that.
+> This started as a final year project for the Computer Science Engineering Degree that I was/am pursuing, now aiming to make this more than that.
 
 ## System Workflow
 
@@ -47,7 +47,7 @@ A brief explanation on the basic workflow of the application.
 1. Clone this repository
 
    ```shell
-   git clone https://github.com/arlbibek/dVoting.git
+   https://github.com/santosh2474/Blockchain-Voting-System.git
    cd dVoting
    ```
 
