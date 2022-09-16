@@ -11,7 +11,7 @@ const Footer = () => (
           View this project on{" "}
           <a
             className="profile"
-            href="https://github.com/arlbibek/dVoting"
+            href="https://github.com/santosh2474/Blockchain-Voting-System.git"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -23,7 +23,7 @@ const Footer = () => (
           Made with <i className="fas fa-heartbeat" /> by{" "}
           <a
             className="profile"
-            href="https://arlbibek.github.io"
+            href="https://github.com/santosh2474"
             target="_blank"
             rel="noopener noreferrer"
           >
